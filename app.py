@@ -1,3 +1,5 @@
 phrase = "heyo whats good bruv"
         #0123456789...
-print(phrase[2,5,4]) #remember strings indexing starting with 0
+print(phrase.index("G")) #this is passing a parameter, value that i would give to a function
+
+
