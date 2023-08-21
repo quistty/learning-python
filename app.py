@@ -1,2 +1,3 @@
 phrase = "heyo whats good bruv"
-print(len(phrase)) #checks length of phrase
+        #0123456789...
+print(phrase[2,5,4]) #remember strings indexing starting with 0
